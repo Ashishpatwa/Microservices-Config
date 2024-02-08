@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: DUMMY
 eureka:
   instance:
     ip-address: true
